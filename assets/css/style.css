@@ -1,0 +1,43 @@
+.division{
+    max-width: 300px;
+    max-height: 300px;
+    background-color: blueviolet;
+    text-align: center;
+    
+}
+.hero{
+    max-width: 300px;
+    max-height: 300px;
+    text-align: center;
+    background-color: rgb(43, 198, 226);
+}
+.href{
+    max-width: 300px;
+    max-height: 300px;
+    text-align: center;
+    background-color: rgb(226, 43, 134);
+}
+div{
+    width: 600px;
+    height: 200px;
+    margin: auto;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+}
+
+#Optio{
+    font-weight: 100px;
+    height: 300px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 10pc;
+}
+
+.subtitle {
+    font-size: 15px;
+    margin-top: 5px;
+    background-color: brown; 
+}
